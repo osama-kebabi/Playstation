@@ -60,16 +60,6 @@ nav ul li a:hover {
     border-bottom: 1px solid #ff5ea2;
 }
 
-/* nav .backcolor-nav {
-    position: absolute;
-    height: 40px;
-    width: 80%;
-    background: linear-gradient(to right, #ff575a, #fb5283);
-    top: -10px;
-    z-index: -1;
-    border-radius: 0 20px;
-    left: 400px;
-} */
 .row {
     display: flex;
     justify-content: space-between;
@@ -231,11 +221,6 @@ nav ul li a:hover {
         overflow: hidden;
         transition: 0.5s;
     }
-
-    /* .row {
-        flex-direction: column-reverse;
-        margin: 50px 0;
-    } */
 
     .col-2 {
         flex-basis: 100%;
