@@ -171,7 +171,7 @@ nav ul li a:hover {
     cursor: pointer;
 }
 
-.social-links img {
+/* .social-links img {
     height: 20px;
     margin: 20px;
     cursor: pointer;
@@ -179,7 +179,7 @@ nav ul li a:hover {
 
 .social-links img:hover {
     transform: scale(1.5);
-}
+} */
 
 .social-links {
     text-align: center;
